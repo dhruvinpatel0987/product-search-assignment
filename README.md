@@ -18,7 +18,7 @@ This project is a microservices-based product search system using PostgreSQL, El
 
 1. **Clone the repository**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/dhruvinpatel0987/product-search-assignment.git
    cd product-search-assignment
    ```
 
